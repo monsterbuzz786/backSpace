@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5528770F-4BCE-9C9B-0CE9-BBB8645AEF45}") = "backspace", "Assembly-CSharp-firstpass.csproj", "{F4C42B7E-3DD1-6654-FA08-C6E731F9E8B8}"
+EndProject
+Project("{5528770F-4BCE-9C9B-0CE9-BBB8645AEF45}") = "backspace", "Assembly-CSharp.csproj", "{141288E9-4DC7-B4D0-5C6A-2CD085265C5F}"
+EndProject
+Project("{5528770F-4BCE-9C9B-0CE9-BBB8645AEF45}") = "backspace", "Assembly-CSharp-Editor.csproj", "{F4834EE3-5B39-67BD-BCB0-9975BF8FA592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C42B7E-3DD1-6654-FA08-C6E731F9E8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C42B7E-3DD1-6654-FA08-C6E731F9E8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C42B7E-3DD1-6654-FA08-C6E731F9E8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C42B7E-3DD1-6654-FA08-C6E731F9E8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141288E9-4DC7-B4D0-5C6A-2CD085265C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141288E9-4DC7-B4D0-5C6A-2CD085265C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141288E9-4DC7-B4D0-5C6A-2CD085265C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141288E9-4DC7-B4D0-5C6A-2CD085265C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4834EE3-5B39-67BD-BCB0-9975BF8FA592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4834EE3-5B39-67BD-BCB0-9975BF8FA592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4834EE3-5B39-67BD-BCB0-9975BF8FA592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4834EE3-5B39-67BD-BCB0-9975BF8FA592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
